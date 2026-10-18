@@ -1,7 +1,7 @@
 # RedFlag — Fraud Detection Engine in Pure SQL
 
 A fraud analytics project simulating the day-to-day work of a fraud analyst at an Indian fintech.
-Built entirely in MySQL — no Python, no Excel, no ML — against 200,000+ transactions from
+Built entirely in MySQL no Python, no Excel, no ML against 200,000+ transactions from
 **PayFast**, a fictional Indian payment aggregator handling UPI, card, netbanking, and wallet
 payments across 20+ cities.
 
